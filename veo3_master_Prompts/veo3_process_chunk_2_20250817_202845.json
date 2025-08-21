@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-08-17T20:05:18.186220",
+  "chunk_index": 2,
+  "prompt_length": 5243,
+  "prompt_preview": "\n\nFEATURE-DRIVEN CINEMATIC CHUNK 2/8 - PRECISE 6.5-SECOND TIMING WITH VOICE-OVER\n\n=== CHARACTER CONSISTENCY (EXACT DNA) ===\nPrimary User Persona: Event Organizer (Event Manager/Coordinator). Mid-30s, sharp navy blazer, rolled sleeves, expressive eyes shadowed by fatigue. Hair in a tight bun, posture tense. Background: Ten years of event management, known for drive and empathy, but haunted by recent setbacks. Mannerisms: Constantly glances at watch, nervous tapping of pen, voice tight with worry....",
+  "generation_success": true,
+  "error_message": null,
+  "veo3_compatibility_notes": {
+    "character_consistency_elements": 0,
+    "timing_specifications": 8,
+    "camera_movement_details": 4,
+    "technical_specifications": 8,
+    "negative_prompt_elements": 4,
+    "scene_description_depth": 698,
+    "veo3_optimization_score": 65
+  },
+  "optimization_suggestions": [
+    "Consider reducing prompt length - VEO3 performs better with concise, focused prompts",
+    "Add explicit character DNA section for better consistency"
+  ]
+}

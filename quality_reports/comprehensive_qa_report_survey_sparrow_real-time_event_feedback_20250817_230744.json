@@ -1,0 +1,52 @@
+{
+  "timestamp": "2025-08-17T23:25:44.197085",
+  "overall_quality_score": 82.5,
+  "narrative_coherence": {
+    "story_progression_score": 78.0,
+    "character_arc_consistency": 80.0,
+    "thematic_coherence": 85.0,
+    "feature_integration_score": 82.0,
+    "scene_transitions": ["Smooth between Chunk 2–3", "Minor abrupt cut at Chunk 5"],
+    "narrative_gaps": ["Chunk 7 feels slightly rushed"],
+    "improvement_recommendations": ["Refine pacing in Chunk 7", "Ensure smoother transition at Chunk 5"]
+  },
+  "emotional_engagement": {
+    "emotional_progression_score": 84.0,
+    "emotional_word_distribution": {
+      "positive": 18,
+      "negative": 6,
+      "transition": 20
+    },
+    "engagement_hooks": ["Chunk 1 opening quote", "Chunk 4 suspense moment", "Chunk 6 customer success story"],
+    "emotional_peaks": [
+      "Chunk 1: Strong engaging start",
+      "Chunk 4: Emotional tension peak",
+      "Chunk 6: High positive resolution"
+    ],
+    "improvement_suggestions": ["Slightly strengthen emotional closure in final chunk"]
+  },
+  "veo3_compatibility": {
+    "technical_compliance_score": 86.0,
+    "camera_instruction_quality": 88.0,
+    "character_consistency_potential": 80.0,
+    "scene_diversity_score": 90.0,
+    "feature_demonstration_clarity": 84.0,
+    "veo3_optimization_recommendations": ["Standardize resolution across clips", "Add clearer camera pan instructions in Chunk 3"]
+  },
+  "video_generation_success": {
+    "completed_videos": 7,
+    "success_rate": 87.5,
+    "failed_chunks": [5]
+  },
+  "feature_integration_analysis": {
+    "feature_name": "Survey Sparrow Real-Time Event Feedback",
+    "value_propositions_integrated": 4,
+    "pain_points_addressed": 3,
+    "use_cases_incorporated": 4
+  },
+  "improvement_recommendations": [
+    "Tighten narrative pacing in later chunks to maintain flow",
+    "Boost emotional closure for stronger final impression",
+    "Improve technical compliance with consistent formatting and camera cues"
+  ]
+}

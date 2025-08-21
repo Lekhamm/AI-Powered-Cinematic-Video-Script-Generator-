@@ -1,0 +1,174 @@
+
+MASTER VEO3 AGENT PROMPT - FEATURE-DRIVEN CINEMATIC STORYTELLING
+
+==== FEATURE ANALYSIS FOUNDATION ====
+Feature Name: Survey Sparrow Real-Time Event Feedback
+Feature Category: Real-Time Audience Engagement & Analytics Platform
+Core Value Propositions: [
+  "Enables instant, real-time feedback collection during live events, boosting engagement and responsiveness.",
+  "Provides actionable sentiment analysis and live analytics for immediate program adaptation.",
+  "Delivers measurable ROI and audience insights to organizers and sponsors through automated integrations and reporting."
+]
+Customer Pain Points: [
+  "Delayed or low-response post-event feedback that misses the immediacy of attendee experience.",
+  "Inability to adapt event content or logistics in real time based on audience sentiment.",
+  "Difficulty demonstrating event ROI and engagement to sponsors and stakeholders.",
+  "Manual, fragmented feedback collection processes that are time-consuming and error-prone."
+]
+Key Capabilities: [
+  "Instant feedback capture using QR codes, NFC tags, and geofenced notifications.",
+  "AI-powered real-time sentiment analysis and mood tracking.",
+  "Seamless integration with major event management platforms for automated follow-ups."
+]
+Quantified Benefits: [
+  "Increases audience engagement by 55% through real-time participation opportunities.",
+  "Reduces post-event survey response time from weeks to minutes.",
+  "Improves sponsor satisfaction by providing immediate ROI metrics and audience insights."
+]
+
+==== STAKEHOLDER JOURNEY MAPPING ====
+Primary User Persona: Event Organizer (Event Manager/Coordinator)
+Current State: Relies on post-event surveys and manual data aggregation, often receiving feedback too late to act.
+Pain Points: ["Delayed feedback limits ability to improve live event experience.", "Low survey response rates and incomplete data."]
+Desired State: Can instantly collect and act on attendee feedback, dynamically adjust event content, and provide real-time ROI reports.
+Success Indicators: ["Higher engagement and response rates.", "Faster feedback cycle enabling live improvements."]
+Emotional Arc: Frustration → Hope → Confidence → Success
+
+==== USE CASE INTEGRATION ====
+[
+  {
+    "scenario": "Music festival energy tracking",
+    "context": "During live music festivals with large, dynamic audiences.",
+    "user_goal": "Measure crowd energy and mood to optimize setlists, lighting, and effects.",
+    "feature_role": "Collects real-time sentiment and feedback via QR/NFC/geofencing, visualizes trends for organizers.",
+    "outcome": "Organizers adjust programming on-the-fly, enhancing attendee experience."
+  },
+  {
+    "scenario": "Corporate conference speaker feedback",
+    "context": "During presentations at business conferences.",
+    "user_goal": "Gather immediate speaker ratings and adjust Q&A sessions based on audience interest.",
+    "feature_role": "Enables live feedback collection and analytics during/after each session.",
+    "outcome": "Sessions are dynamically tailored to audience needs, boosting engagement."
+  },
+  {
+    "scenario": "Sports event fan sentiment tracking",
+    "context": "During key moments at live sports events.",
+    "user_goal": "Track fan sentiment to inform in-game engagement initiatives.",
+    "feature_role": "Analyzes real-time audience mood and provides actionable insights.",
+    "outcome": "Fan experience initiatives are optimized in real time, increasing satisfaction."
+  }
+]
+
+==== NARRATIVE EXCELLENCE FRAMEWORK ====
+Central Conflict: Event organizers lack timely, actionable feedback to optimize live experiences and demonstrate event value.
+Resolution Path: Real-time, AI-powered feedback collection and analytics empower instant adaptation and transparent ROI reporting.
+Transformation Story: Organizers move from reactive, post-event analysis to proactive, live event optimization and stakeholder satisfaction.
+Emotional Beats: ["Current frustration/struggle", "Problem escalation/pain", "Discovery of solution", "Initial hope/curiosity", "Engagement/trial", "Growing confidence", "Transformation/success", "Mastery/celebration"]
+Visual Metaphors: ["Foggy mirror (unclear event impact)", "Control panel lighting up (real-time clarity and control)", "Standing ovation (visible, celebrated success)"]
+Story Settings: ["Music festivals", "Corporate conferences", "Sports stadiums"]
+
+==== 8-CHUNK EMOTIONAL PROGRESSION ====
+{
+  "1": {
+    "beat": "Current frustration/struggle",
+    "emotion": "Frustration/Stress",
+    "intensity": 3,
+    "feature_focus": "Problem identification",
+    "stakeholder_stage": "Problem awareness"
+  },
+  "2": {
+    "beat": "Problem escalation/pain",
+    "emotion": "Increased Frustration",
+    "intensity": 4,
+    "feature_focus": "Pain point escalation",
+    "stakeholder_stage": "Solution search"
+  },
+  "3": {
+    "beat": "Discovery of solution",
+    "emotion": "Hope/Curiosity",
+    "intensity": 5,
+    "feature_focus": "Feature discovery",
+    "stakeholder_stage": "Evaluation"
+  },
+  "4": {
+    "beat": "Initial hope/curiosity",
+    "emotion": "Cautious Optimism",
+    "intensity": 6,
+    "feature_focus": "Initial capability exploration",
+    "stakeholder_stage": "Trial"
+  },
+  "5": {
+    "beat": "Engagement/trial",
+    "emotion": "Growing Interest",
+    "intensity": 7,
+    "feature_focus": "Active feature use",
+    "stakeholder_stage": "Adoption"
+  },
+  "6": {
+    "beat": "Growing confidence",
+    "emotion": "Confidence",
+    "intensity": 8,
+    "feature_focus": "Advanced capabilities",
+    "stakeholder_stage": "Optimization"
+  },
+  "7": {
+    "beat": "Transformation/success",
+    "emotion": "Satisfaction/Relief",
+    "intensity": 9,
+    "feature_focus": "Full transformation",
+    "stakeholder_stage": "Mastery"
+  },
+  "8": {
+    "beat": "Mastery/celebration",
+    "emotion": "Neutral",
+    "intensity": 10,
+    "feature_focus": "Success demonstration",
+    "stakeholder_stage": "Advocacy"
+  }
+}
+
+==== VEO3 TECHNICAL SPECIFICATIONS ====
+1. PRECISE TIMING CONTROL:
+   - Total Duration: EXACTLY 6.5 seconds per chunk
+   - Camera Movement: 5.5 seconds lateral dolly movement
+   - Concealment Phase: 1.0 seconds behind right object
+   - NO footage after concealment point
+
+2. CHARACTER CONSISTENCY PROTOCOL:
+   - Identical character DNA across all 8 chunks
+   - Same facial features, clothing, and physical characteristics
+   - Consistent behavior patterns aligned with stakeholder persona
+   - Professional appearance matching target user persona
+
+3. SCENE DIVERSITY WITH PURPOSE:
+   - Each chunk shows COMPLETELY different professional environment
+   - Progressive feature demonstration through varied contexts
+   - Visual variety supporting emotional progression and use case integration
+
+4. CAMERA MOVEMENT SPECIFICATION:
+   Start behind a partial wall or plant on the left side. Slowly dolly from left to right across the scene, passing behind objects mid-shot. The video MUST END exactly as the camera becomes fully concealed behind the right-side object. Duration: 6.5 seconds total - spend 5.5 seconds moving across scene, then 1 second becoming concealed. NO FOOTAGE after camera is hidden behind right object. Maintain smooth, steady motion throughout.
+
+5. FEATURE DEMONSTRATION REQUIREMENTS:
+   - Visual communication of feature value without on-screen text
+   - Authentic professional scenarios from use case analysis
+   - Clear capability demonstration in realistic contexts
+   - Transformation elements showing before/after improvements
+
+==== QUALITY ASSURANCE FRAMEWORK ====
+- Feature value proposition alignment verification
+- Stakeholder journey progression validation
+- Use case integration authenticity check
+- Emotional engagement escalation confirmation
+- VEO3 technical specification compliance
+- Character consistency across all chunks
+- Professional scenario authenticity validation
+- Quantified benefit visual representation assessment
+
+==== SUCCESS CRITERIA ====
+- Complete feature story told across 8 connected chunks
+- Authentic stakeholder transformation demonstrated
+- Real use cases integrated into narrative
+- Professional quality cinematic presentation
+- Precise timing with perfect camera concealment
+- Identical characters throughout different professional scenarios
+- Clear feature value communication without text overlays
